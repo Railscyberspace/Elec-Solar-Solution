@@ -1,7 +1,11 @@
 //import logo from './logo.svg';
 import './App.css';
 import { Component } from 'react';
+
 import Form from './component/Form'
+
+
+
 class App extends Component
 {
   render()
@@ -11,7 +15,9 @@ class App extends Component
 
 
 
+
         <Form></Form>
+
 
       </div>
     );
